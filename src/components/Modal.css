@@ -1,0 +1,19 @@
+.modal1 {
+    position: fixed;
+    top: 0;
+    left: 0;
+    background-color: white;
+    width: 100vw;
+    height: 100vh;
+}
+
+.modal1 button {
+    position: absolute;
+    margin: 0;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1rem;
+    font-size: 1rem;
+    cursor: pointer;
+}
